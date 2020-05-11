@@ -1,16 +1,9 @@
-# flutter_sqlite_example_avdisx
+# Flutter ile Uygulamalı Projeler #3 SQLite ile Ev Alışveriş Listem Uygulaması “sqflite” paketi
 
-A new Flutter project.
+Bu uygulamada "sqflite" paketi ile local "Ev Alışveriş Listesi" uygulamasını oluşturduk.
+[Medium'dan beni takip et.](https://medium.com/@avdisx)
 
-## Getting Started
+<p align="center">
+  <img src="assets/images/alisverislistem.gif"><img src="assets/images/Screenshot_1589202073.png">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
